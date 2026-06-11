@@ -13,7 +13,7 @@ This file contains multiple functions for panel data model analysis. It includes
 
 (5) optComb: This is a function to optimize using a vector programming algorithm to speed-up calculation
 
-    optIrrInvest: This is a funct9on to call the optComb function with inputs of technology combinations, regional change in yield, irrigation and technology for certain crop 
+    optIrrInvest: This is a function to call the optComb function with inputs of technology combinations, regional change in yield, irrigation and technology for certain crop 
 
 In each function, I have added the comment for each input variable in the R file. 
 
